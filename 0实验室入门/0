@@ -1,0 +1,35 @@
+# 如何入门实验室的各个项目
+
+## 预备知识
+
+Python, C/Cpp 等基础语言.
+
+ROS1, ROS2 机器人系统:
+
+- [ROS1 wiki](https://wiki.ros.org/cn/ROS/Tutorials), [ROS2 Humble](https://docs.ros.org/en/humble/).
+- [鱼香ROS](https://fishros.com/), [ROS1 中文 Tutorial](http://www.autolabor.com.cn/book/ROSTutorials/)
+- [ETH Course](https://rsl.ethz.ch/education-students/lectures/ros.html)
+
+## 机器人学与计算机科学图景
+
+- [具身智能技术](https://github.com/tianxingchen/Embodied-AI-Guide)
+- 传统机器人学 机器人手册 [page](https://link.springer.com/book/10.1007/978-3-319-32552-1)（实验室有旧版中文版全册）
+- [CS 自学指南](https://csdiy.wiki/)
+
+## 深度学习
+
+PyTorch: [快速入门](https://datawhalechina.github.io/thorough-pytorch/%E7%AC%AC%E9%9B%B6%E7%AB%A0/index.html)
+
+生成式网络：
+
+- Flow Matching & diffusion
+  - [CS6s184](https://diffusion.csail.mit.edu/)
+- 自回归
+  - ACT, [paper](https://arxiv.org/abs/2304.13705)
+
+## 其他内容
+
+公众号科研：机器人操作前沿动态，
+
+B站科研：[跟李沐学AI]([跟李沐学AI的个人空间-跟李沐学AI个人主页-哔哩哔哩视频](https://space.bilibili.com/1567748478))， [TechBeat人工智能社区]([TechBeat人工智能社区的个人空间-TechBeat人工智能社区个人主页-哔哩哔哩视频](https://space.bilibili.com/209732435))，[上交IWIN-FINS实验室]([上交IWIN-FINS实验室的个人空间-上交IWIN-FINS实验室个人主页-哔哩哔哩视频](https://space.bilibili.com/1188256336))
+
