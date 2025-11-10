@@ -7,12 +7,12 @@
 ### Manus Glove + Vive Tracker
 
 - Manus Glove
--   Install the [manus_ros](https://github.com/LogM-Robot/manus_ros).
--   Install Manus Core on a Windows Computer.
+  - Install the [manus_ros](https://github.com/LogM-Robot/manus_ros).
+  - Install Manus Core on a Windows Computer.
 
 - Vive Tracker
--   Install the [vive_tracker](https://github.com/LogM-Robot/vive_tracker).
--   Download `SteamVR.zip` from NAS and move it to `.local/share/Steam/steamapps/common/`.
+  - Install the [vive_tracker](https://github.com/LogM-Robot/vive_tracker).
+  - Download `SteamVR.zip` from NAS and move it to `.local/share/Steam/steamapps/common/`.
 
 
 ### Apple Vision Pro
